@@ -1,5 +1,5 @@
 {
-  "api_key": "",
+  "api_key": "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",
   "engine": "gpt-3.5-turbo",
   "max_tokens": 3600,
   "temperature": 0.7,
